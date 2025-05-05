@@ -5,7 +5,7 @@ url_barcelona = "https://api.open-meteo.com/v1/forecast?latitude=41.38879&longit
 url_madrid = "https://api.open-meteo.com/v1/forecast?latitude=40.4167&longitude=3.7033&current=temperature_2m,wind_speed_10m&hourly=temperature_2m,relative_humidity_2m,wind_speed_10m"
 url_asturias = "https://api.open-meteo.com/v1/forecast?latitude=43.3619&longitude=-5.8492&current=temperature_2m,wind_speed_10m&hourly=temperature_2m,relative_humidity_2m,wind_speed_10m"
 
-# Función principal
+
 def main():
     print("Bienvenido al programa de consulta del tiempo")
     print("Elija una de las siguientes opciones:")
